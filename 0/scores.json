@@ -1,0 +1,7 @@
+{
+    "scores": [
+        {"name": "worst", "score": "1234567", "jap_score": "4343434", "team": "なにか", "power": "333333", "skill": "125-125-125-125-125", "unixtime":"1624204222"},
+        {"name": "yattenai", "score": "1234567", "jap_score": "2222222", "team": "なにか", "power": "123456", "skill": "125-125-125-125-125", "unixtime":"1624204220"},
+        {"name": "yatteru", "score": "1934567", "jap_score": "2222222", "team": "なにか", "power": "123456", "skill": "125-125-125-125-125", "unixtime":"1624204220"}
+    ]
+}
