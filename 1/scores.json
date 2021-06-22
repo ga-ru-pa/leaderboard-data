@@ -1,5 +1,6 @@
 {
     "scores": [
+        {"name": "ark4x", "score": "1997902", "jap_score": "1986972", "team": "ピュアロゼリア", "power": "296888", "skill": "?", "unixtime":"1624325695"},
         {"name": "0215senry", "score": "2000476", "jap_score": "1990858", "team": "パワフルアフグロ", "power": "298259", "skill": "125-120-120-115-110", "unixtime":"1624275593"},
         {"name": "shiro_haruto", "score": "1993896", "jap_score": "1980673", "team": "ピュアパスパレ", "power": "297406", "skill": "125-120-115-115-110", "unixtime":"1624204220"},
         {"name": "garupa_yatteru", "score": "2001348", "jap_score": "1991397", "team": "クールパスパレ", "power": "297691", "skill": "125-120-120-115-115", "unixtime":"1624204220"}
