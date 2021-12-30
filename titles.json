@@ -1,7 +1,6 @@
 {
     "titles": [
-        {"id": "8", "title": "太陽曰く燃えよカオス", "start_datetime": "2021-12-30 14:30:00", "end_datetime": "2022-01-09 23:59:59"},
-        {"id": "7", "title": "優勝 feat.Afterglow", "start_datetime": "2021-12-30 14:30:00", "end_datetime": "2022-01-09 23:59:59"},
+        {"id": "7", "title": "太陽曰く燃えよカオス", "start_datetime": "2021-12-30 14:30:00", "end_datetime": "2022-01-03 23:59:59"},
         {"id": "6", "title": "HELL! or HELL?", "start_datetime": "2021-09-19 15:00:00", "end_datetime": "2021-09-20 14:59:59"},
         {"id": "5", "title": "SAVIOR OF SONG", "start_datetime": "2021-07-20 22:00:00", "end_datetime": "2021-07-30 21:00:00"},
         {"id": "4", "title": "Jumpin'", "start_datetime": "2021-07-20 22:00:00", "end_datetime": "2021-07-30 21:00:00"},
